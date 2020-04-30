@@ -1,0 +1,51 @@
+.container{
+    margin: 50px 0;
+   
+    
+    
+}
+/* .content{
+    background-color: rgba(0, 255, 0, 0.5);
+} */
+
+.card{
+    margin: 0 2% !important;
+  
+}
+#card1{
+    background-color: #E8E8E8;
+}
+#card2{
+    background-color: #DDDDDF;
+}
+#card3{
+    background-color: #DDDDDF;
+}
+#card1:hover{
+    background-color: rgba(193, 131, 131, 0.5);
+
+}
+#card2:hover{
+    background-color: rgba(165, 194, 165, 0.5);
+}
+#card3:hover{
+    background-color: rgba(129, 129, 171, 0.5);
+}
+
+.infected {
+    border-bottom: 10px solid rgba(0, 0, 255, 0.5);
+    border-top: 10px solid rgba(0, 0, 255, 0.5);
+    border-radius: 20%;
+    
+    
+}
+.recovered {
+    border-bottom: 10px solid rgba(0, 255, 0, 0.5);
+    border-top: 10px solid rgba(0, 255, 0, 0.5);
+    border-radius: 20%;
+}
+.deaths {
+    border-bottom: 10px solid rgba(255, 0, 0, 0.5);
+    border-top: 10px solid rgba(255, 0, 0, 0.5);
+    border-radius: 20%;
+}

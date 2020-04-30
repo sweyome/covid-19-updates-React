@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    /* background-color: rgb(138, 131, 131); */
+    justify-content: center;
+    width: 65%;
+  }
+  
+  @media only screen and (max-width: 770px) {
+    .container {
+      width: 100%;
+    }
+  }
+
