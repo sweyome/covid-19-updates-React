@@ -8,7 +8,7 @@
     background-color: rgba(0, 255, 0, 0.5);
 } */
 
-.card{
+/* .card{
     margin: 0 2% !important;
   
 }
@@ -21,8 +21,8 @@
 }
 #card3{
     background-color: #FFFFFF;
-}
-#card1:hover{
+} */
+/* #card1:hover{
     background-color: rgba(193, 131, 131, 0.5);
     border-radius: 1.5em;
     transform: scale(1.2);
@@ -42,22 +42,19 @@
     border-radius: 1.5em;
     transform: scale(1.2);
     transition: transform 1s ease-in-out;
-}
+} */
 
 .infected {
-    border-bottom: 10px solid rgba(0, 0, 255, 0.5);
     border-top: 10px solid rgba(0, 0, 255, 0.5);
-    border-radius: 20%;
     
     
 }
 .recovered {
-    border-bottom: 10px solid rgba(0, 255, 0, 0.5);
+    
     border-top: 10px solid rgba(0, 255, 0, 0.5);
     border-radius: 20%;
 }
 .deaths {
-    border-bottom: 10px solid rgba(255, 0, 0, 0.5);
+   
     border-top: 10px solid rgba(255, 0, 0, 0.5);
-    border-radius: 20%;
 }
